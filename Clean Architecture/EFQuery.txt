@@ -1,0 +1,1 @@
+Scaffold-DbContext "data source = LAPTOP-BN0C1K6G;initial catalog = BDEmpresa;Trusted_Connection=Yes;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Context
